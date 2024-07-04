@@ -1,0 +1,12 @@
+
+th,
+td,
+table {
+  border: 1px black solid;
+  padding: 10px;
+}
+.tanu{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
